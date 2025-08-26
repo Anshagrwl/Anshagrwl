@@ -1,5 +1,8 @@
+![logo](https://github.com/codewithkryptora/CodeWithKryptora/blob/main/header_gif.gif)
 <h1 align="center">Hi 👋, I'm Ansh Aggarwal</h1>
 <h3 align="center">I am Data Analyst</h3>
+
+<img align="right" alt="Kryptora" width="400" src="https://github.com/codewithkryptora/CodeWithKryptora/blob/main/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshagrwl&label=Profile%20views&color=0e75b6&style=flat" alt="anshagrwl" /> </p>
 
